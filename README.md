@@ -2,8 +2,9 @@
 AI chatbot from using Node.js, the OpenAI library and the ChatGPT API.
 
 Start the server
+```
 npm start
-
+```
 
 
 ![SS 1](https://github.com/firman-ikhsan/chatgpt1/assets/14228299/cb22c707-f769-49b6-a8cf-3f9fa8ef40ad)
