@@ -24,3 +24,4 @@ npm start
 ```
 ---
 Reference: https://www.youtube.com/watch?v=1YU83Lw58eo
+with some adjustment because I am using OpenAI v4.x.x
